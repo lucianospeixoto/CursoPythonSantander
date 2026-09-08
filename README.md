@@ -9,7 +9,7 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 ## 📌 Conteúdo do Repositório
 
 ### 📁 1 - Introdução ao Python
-* Primeiro código em Python (`ola_mundo.py`).
+* Primeiro programa em Python (`ola_mundo.py`).
 
 ### 📁 2 - Noções Básicas de Python
 * **2.0 - Tipos de Dados Básicos:** Manipulação e conceitos de tipos de dados (`tipos_dados_basicos.py`).
@@ -24,7 +24,7 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python 3.14**
+* **Python 3.x**
 * **VS Code** (IDE)
 * **Git & GitHub** (Controle de versão)
 
