@@ -1,0 +1,19 @@
+Operadores
+
+Os operadores são símbolos especiais que nos permitem
+realizar operações em variáveis e valores. 
+Python fornece diferentes tipos de operadores
+para realizar operações aritméticas, comparações
+e operações lógicas.
+
+
+Você pode utilizar esses operadores para realizar 
+cálculos, tomar decisões baseadas em comparações 
+e combinar condições lógicas em seus programas.
+
+
+Python segue as regras de precedência de operadores, 
+onde certos operadores têm prioridade sobre outros.
+Em geral, a precedência segue a ordem: parênteses, 
+exponenciação, multiplicação/divisão, soma/subtração, 
+operadores de comparação e operadores lógicos.
