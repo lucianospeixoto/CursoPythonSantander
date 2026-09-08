@@ -105,8 +105,7 @@ for i in range(10):
 
 """
 A instrução pass é uma operação nula que não faz nada. 
-É utilizada como um marcador de posição quando uma 
-instrução é 
+É utilizada como um marcador de posição quando uma instrução é 
 sintaticamente necessária, mas nenhuma ação é desejada.
 
 exemplo:

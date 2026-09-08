@@ -1,6 +1,6 @@
 Operadores
 
-Os operadores são símbolos especiais que nos permitem
+Os operadores são símbolos especiais que permitem
 realizar operações em variáveis e valores. 
 Python fornece diferentes tipos de operadores
 para realizar operações aritméticas, comparações

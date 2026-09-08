@@ -47,8 +47,8 @@ else:
 """
 IF-ELIF-ELSE
 
-A estrutura if-elif-else nos permite especificar múltiplas
-condições e blocos de código alternativos.
+A estrutura if-elif-else nos permite especificar 
+múltiplas condições e blocos de código alternativos.
 A sintaxe básica é a seguinte:
 
 if condicao1:

@@ -13,7 +13,7 @@ Por exemplo:
 """
 
 nome = "Juan"
-idade = 25
+idade = 20
 altura = 1.75
 é_estudante = True
 

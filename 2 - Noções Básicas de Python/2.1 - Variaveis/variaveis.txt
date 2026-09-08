@@ -33,7 +33,7 @@ que indiquem claramente seu propósito:
 nome, idade, total_vendas, etc.
 
 Seguindo essas regras, 
-alguns exemplos de nomes de variáveis válidos são:
+E alguns exemplos de nomes de variáveis válidos são:
 
 idade
 nome_completo

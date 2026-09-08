@@ -1,8 +1,8 @@
 Estruturas condicionais
 
 
-As estruturas de controle nos permitem controlar o 
-fluxo de execução de nossos programas. 
+As estruturas de controle nos permitem controlar 
+o fluxo de execução de nossos programas. 
 Em Python, as estruturas de controle mais comuns s
 ão as estruturas condicionais e os loops. 
 Essas estruturas nos permitem tomar decisões e

@@ -1,8 +1,8 @@
 # Aritméticos
 
 """
-Os operadores aritméticos são utilizados para 
-realizar operações matemáticas básicas. 
+Os operadores aritméticos são utilizados 
+para realizar operações matemáticas básicas. 
 Os principais operadores aritméticos em Python são:
 
 Soma (+): Adiciona dois valores.

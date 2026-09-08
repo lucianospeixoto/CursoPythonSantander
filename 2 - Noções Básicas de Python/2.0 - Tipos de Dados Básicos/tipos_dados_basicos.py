@@ -6,7 +6,7 @@ Em Python, são representados simplesmente escrevendo o
 número sem aspas nem pontos decimais. Por exemplo:
 """
 
-idade = 25
+idade = 20
 quantidade = 100
 
 
