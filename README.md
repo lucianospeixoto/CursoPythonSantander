@@ -24,7 +24,7 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python 3.x**
+* **Python 3.14**
 * **VS Code** (IDE)
 * **Git & GitHub** (Controle de versão)
 
