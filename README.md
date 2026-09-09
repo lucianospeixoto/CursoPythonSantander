@@ -23,6 +23,11 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 ### 📁 4 - Estrutura de Dados
 * **4.0 - Listas:** Criação, acesso por índices (positivos e negativos), métodos de manipulação (`append`, `insert`, `remove`, `pop`, `sort`, `reverse`) e lista de compreensão com filtros (`lista.py`, `lista.txt`).
 * **4.1 - Tuplas:** Conceito de imutabilidade, criação, acesso por índices, busca com `.index()` (com parâmetros de início e fim), contagem com `.count()` e verificação de tamanho com `len()` (`tuplas.py`, `tuplas.txt`).
+* **4.2 - Dicionários:** Mapeamento de pares chave-valor (`dicionarios.py`).
+* **4.3 - Conjuntos (set):** Manipulação de coleções não ordenadas de elementos únicos (`conjuntos.py`).
+
+### 📁 Teste - Parte 1 do Curso
+* Exercícios de revisão para avançar o curso (`exercicio1.py`, `exercicio2.py`, `exercicio3.py`).
 
 ---
 
