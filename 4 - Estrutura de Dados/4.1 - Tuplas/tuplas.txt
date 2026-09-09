@@ -1,0 +1,6 @@
+Tuplas
+
+Uma tupla é uma estrutura de dados imutavel
+e ordenada que permite armazenar uma coleção
+de elementos. os elementos de uma tupla são encerrados
+entre parênteses ( ), separados por virgula.
