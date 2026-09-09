@@ -21,7 +21,8 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 * **3.1 - Loops:** Laços de repetição (`for`, `while`) e instruções de controle como `break`, `continue` e `pass` (`loops.py`).
 
 ### 📁 4 - Estrutura de Dados
-* **4.0 - Listas:** Criação, acesso por índices (positivos e negativos), métodos de manipulação (`append`, `insert`, `remove`, `pop`, `sort`, `reverse`) e lista de compreensão com filtros (`listas.py`).
+* **4.0 - Listas:** Criação, acesso por índices (positivos e negativos), métodos de manipulação (`append`, `insert`, `remove`, `pop`, `sort`, `reverse`) e lista de compreensão com filtros (`lista.py`, `lista.txt`).
+* **4.1 - Tuplas:** Conceito de imutabilidade, criação, acesso por índices, busca com `.index()` (com parâmetros de início e fim), contagem com `.count()` e verificação de tamanho com `len()` (`tuplas.py`, `tuplas.txt`).
 
 ---
 
