@@ -20,6 +20,9 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 * **3.0 - Estruturas Condicionais:** Uso de `if`, `elif` e `else` (`estruturas_condicionais.py`, `estruturas_condicionais.txt`).
 * **3.1 - Loops:** Laços de repetição (`for`, `while`) e instruções de controle como `break`, `continue` e `pass` (`loops.py`).
 
+### 📁 4 - Estrutura de Dados
+* **4.0 - Listas:** Criação, acesso por índices (positivos e negativos), métodos de manipulação (`append`, `insert`, `remove`, `pop`, `sort`, `reverse`) e lista de compreensão com filtros (`listas.py`).
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
