@@ -1,0 +1,7 @@
+Listas
+
+Uma lista é uma estrutura de dados mutável e
+ordenada que permite armazenar uma coleção de elementos.
+Os elementos de uma lista podem ser de diferentes 
+tipos de dados e são encerrados entre colchetes []
+, separados por vírgulas.
