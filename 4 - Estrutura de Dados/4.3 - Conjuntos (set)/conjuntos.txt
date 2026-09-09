@@ -1,0 +1,6 @@
+Conjuntos (set)
+
+Um conjunto é uma estrutura de dados mutavel
+e não ordenada que permite armazenar uma coleção
+de elementos unicos. Os Conjuntos são delimitados por
+chaves {} ou são criados utilizando a função set().

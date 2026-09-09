@@ -1,0 +1,8 @@
+Dicionários
+
+Um dicionario é uma estrutura de dados
+mutavel e não ordenada que permite armazenar
+pares de chave-valor. Cada elemento em um dicionario
+consiste em uma chave única e seu valor correspondente.
+Os dicionarios são delimitados por chaves {}, e os pares
+chave-valor são separados por virgulas
