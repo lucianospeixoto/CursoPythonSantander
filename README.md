@@ -26,6 +26,9 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 * **4.2 - Dicionários:** Mapeamento de pares chave-valor (`dicionarios.py`).
 * **4.3 - Conjuntos (set):** Manipulação de coleções não ordenadas de elementos únicos (`conjuntos.py`).
 
+### 📁 5 - Funções
+* **(Pasta Vazia)** 
+
 ### 📁 Teste - Parte 1 do Curso
 * Exercícios de revisão para avançar o curso (`exercicio1.py`, `exercicio2.py`, `exercicio3.py`).
 
