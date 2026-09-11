@@ -49,4 +49,4 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/CursoPythonSantander.git](https://github.com/seu-usuario/CursoPythonSantander.git)
+   git clone https://github.com/lucianospeixoto/CursoPythonSantander
