@@ -1,0 +1,19 @@
+Funções
+
+As funções são blocos de código reutilizáveis que 
+nos permitem encapsular tarefas específicas e 
+executá-las quando necessário. As funções nos ajudam a 
+organizar nosso código, evitar a repetição e fazer com 
+que nossos programas
+sejam mais modulares e fáceis de manter.
+
+As funções são uma ferramenta fundamental na programação
+e nos permitem estruturar e modularizar nosso código.
+Com a capacidade de definir funções personalizadas,
+podemos encapsular tarefas especificas e reutiliza-las 
+em diferentes partes do nosso programa.
+
+Além das funções definidas pelo usuario, Python também
+fornece uma ampla gama de funções incorporadas que
+podemos utilizar diretamente, como print(), len(),
+range(), entre outras.
