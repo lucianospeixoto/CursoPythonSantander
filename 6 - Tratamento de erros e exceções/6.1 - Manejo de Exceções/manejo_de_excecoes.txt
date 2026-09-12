@@ -1,0 +1,5 @@
+Manejo de exceções
+
+Nos permite capturar e lidar com erros de maneira 
+controlada utilizando as declarações try, except e 
+opcionalmente finally.
