@@ -30,7 +30,9 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 * Definição e chamada de funções, parâmetros e argumentos, retorno de valores com `return`, funções anônimas (`lambda`), escopo de variáveis (local vs. global), documentação com `docstrings` e argumentos variáveis (`*args`) (`funcoes.py`).
 
 ### 📁 6 - Tratamento de erros e exceções
-* **(Vazio)** 
+* **6.0 - Tratamento de erro e exceções:** Conceitos fundamentais de tratamento de erros (`6 - tratamento_de_erros.py`, `tratamento_de_erros.txt`).
+* **6.1 - Manejo de Exceções:** Captura e controle de fluxo com `try`, `except` e bloco de execução final `finally` (`manejo_de_excecoes.py`, `manejo_de_excecoes.txt`).
+* **6.2 - Exceções Personalizadas:** Criação e lançamento de exceções customizadas para regras específicas do programa (`exceções_personalizadas.py`, `exceções_personalizadas.txt`).
 
 ### 📁 Teste - Parte 1 do Curso
 * Exercícios de revisão para avançar o curso (`exercicio1.py`, `exercicio2.py`, `exercicio3.py`).
@@ -49,4 +51,4 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/lucianospeixoto/CursoPythonSantander
+   git clone [https://github.com/lucianospeixoto/CursoPythonSantander](https://github.com/lucianospeixoto/CursoPythonSantander)
