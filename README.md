@@ -34,6 +34,9 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 * **6.1 - Manejo de Exceções:** Captura e controle de fluxo com `try`, `except` e bloco de execução final `finally` (`manejo_de_excecoes.py`, `manejo_de_excecoes.txt`).
 * **6.2 - Exceções Personalizadas:** Criação e lançamento de exceções customizadas para regras específicas do programa (`exceções_personalizadas.py`, `exceções_personalizadas.txt`).
 
+### 📁 7 - Entradas e Sáidas
+* **(Vazio)**
+
 ### 📁 Teste - Parte 1 do Curso
 * Exercícios de revisão para avançar o curso (`exercicio1.py`, `exercicio2.py`, `exercicio3.py`).
 
