@@ -1,0 +1,7 @@
+Entradas e Saídas
+
+Em Python, a entrada e saída de dados nos permite 
+interagir com o usuário e manipular arquivos.
+Podemos solicitar informações ao usuário
+Mostrar resultados na tela e ler ou escrever dados
+em arquivos externos
