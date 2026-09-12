@@ -1,0 +1,8 @@
+Tratamento de erros e exceções
+
+Quando escrevemos programas, é comum nos depararmos
+com situações inesperadas ou erros durante a execução
+Python fornece um mecaninsmo para lidar com esses erros
+de maneira controlada utilizando o tratamento de
+exceções. Isso nos permite capturar e lidar com erros
+especificos sem que o programa pare abruptamente.
