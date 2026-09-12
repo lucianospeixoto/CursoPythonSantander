@@ -1,0 +1,6 @@
+Exceções Personalizadas
+
+Além das exceções incorporadas no Python, você também
+pode crar suas proprias exceções Personalizadas. Isso
+é util quando deseja lidar com situações especificas do 
+seu programa.
