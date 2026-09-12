@@ -1,0 +1,15 @@
+Leitura e escrita de arquivos
+
+Python nos permite ler e escrever dados em arquivos
+externos. Podemos abrir arquivos em diferentes modos,
+como leitura{"r"}, escrita{"w"} ou anexar{"a"}, e
+realizar operações de leitura e escrita
+
+A entrada e saída de dados em Python nos oferece
+uma grande flexibilidade para interagir com o usuário
+e manipular arquivos externos. Podemos solicitar 
+informações ao usuário, mostrar resultados na tela
+e ler ou escrever dados em arquivos de texto. Lembre-se 
+sempre de manejar adequadamente a abertura e fechamento
+de arquivos e considerar as possiveis exceções que
+podem ocorrer durante as operações de entrada/saida.
