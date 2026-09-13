@@ -1,0 +1,9 @@
+Importação e Criação de Módulos
+
+Em Python, um módulo é um arquivo que contém
+definições em funções, classes e variaveis que
+podem ser utilizadas em outros programas. A 
+Importação de modulos nos permite acessar a funcionalidade
+definida em outros arquivos e reutilizar código de maneira
+eficiente. Além disso, podemos criar nossos próprios Módulos
+para organizar e modularizar nosso código.
