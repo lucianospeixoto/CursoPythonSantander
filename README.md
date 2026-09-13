@@ -46,6 +46,9 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 ### 📁 Teste - Parte 1 do Curso
 * Exercícios de revisão para avançar o curso (`exercicio1.py`, `exercicio2.py`, `exercicio3.py`).
 
+### 📁 Teste - Parte 2 do Curso (Avaliação)
+* Prova final do curso para validação do aprendizado e emissão do certificado (`exercicio1.py` até `exercicio10.py`).
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
