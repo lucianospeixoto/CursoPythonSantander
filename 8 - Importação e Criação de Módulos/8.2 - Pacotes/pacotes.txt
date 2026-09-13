@@ -1,0 +1,16 @@
+Pacotes
+
+Um pacote é uma forma de organizar módulos relacionados
+em uma estrutura hierarquica de diretórios. Os Pacotes
+nos permitem agrupar módulos relacionados e evitar
+conflitos de nomes entre modulos
+
+Por exemplo, criamos um diretório chamado meu_pacote
+com a seguinte estrutura:
+
+meu_pacote/
+    modulo1.py
+    modulo2.py
+
+Depois podemos importar e utilizar os módulos do
+pacote em nosso programa.
