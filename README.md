@@ -38,6 +38,9 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 * **7.0 - Entradas e Saídas:** Interação com usuário via terminal utilizando entradas (`input`) e formatação de saídas (`entradas_e_saidas.py`, `entradas_e_saidas.txt`).
 * **7.1 - Leitura e escrita de arquivos:** Manipulação de arquivos externos com `open()`, `read()`, `write()`, fechamento com `close()` e gerenciamento de contexto seguro com a instrução `with` (`leitura_e_escrita_de_arqs.py`, `leitura_e_escrita_de_arqs.txt`).
 
+### 📁 8 - Importação e Criação de módulos
+* **(Vazio)** 
+
 ### 📁 Teste - Parte 1 do Curso
 * Exercícios de revisão para avançar o curso (`exercicio1.py`, `exercicio2.py`, `exercicio3.py`).
 
