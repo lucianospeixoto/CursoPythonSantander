@@ -40,6 +40,7 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 
 ### 📁 8 - Importação e Criação de Módulos
 * **8.0 - Importação e criação de módulos:** Utilização de módulos nativos do Python como `math`, `random` e `datetime` (`importacao_e_criacao_de_modulos.py`, `importacao_e_criacao_de_modulos.txt`).
+* **8.1 - Criação de Módulos Próprios:** Criação de módulos customizados, importação de funções entre arquivos e organização do código por responsabilidades com `meu_modulo.py`, `operacoes.py` e `utilidades.py` (`criacao_de_modulos_proprio.py`, `criacao_de_modulos_proprio.tx`).
 
 ### 📁 Teste - Parte 1 do Curso
 * Exercícios de revisão para avançar o curso (`exercicio1.py`, `exercicio2.py`, `exercicio3.py`).
